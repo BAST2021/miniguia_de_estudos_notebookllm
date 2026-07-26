@@ -186,7 +186,7 @@ Foi elaborado um cronograma progressivo contendo teoria, prática e exercícios 
 
 Storytelling é a técnica de transmitir conhecimento por meio de histórias capazes de despertar emoções, facilitar o entendimento e aumentar a retenção da informação.
 
-### Estrutura Básica
+### Estrutura Basica
 
 - Contexto
 - Problema
