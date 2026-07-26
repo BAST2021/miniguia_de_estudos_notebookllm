@@ -212,7 +212,7 @@ Storytelling é a técnica de transmitir conhecimento por meio de histórias cap
 
 ---
 
-## Influência Estratégica
+##  Influência Estratégica
 
 É a capacidade de conduzir pessoas em direção a determinado objetivo utilizando:
 
